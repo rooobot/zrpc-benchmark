@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	hw "github.com/rooobot/zrpc-benchmark/grpc/helloworld"
+	hw "github.com/rooobot/zrpc-benchmark/gorpc/helloworld"
 	"github.com/rooobot/zrpc/log"
 	"google.golang.org/grpc"
 	"sync"

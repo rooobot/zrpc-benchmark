@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	hw "github.com/rooobot/zrpc-benchmark/grpc/helloworld"
+	hw "github.com/rooobot/zrpc-benchmark/gorpc/helloworld"
 	"google.golang.org/grpc"
 	"log"
 	"net"
